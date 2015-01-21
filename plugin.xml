@@ -1,0 +1,17 @@
+<library path="src">
+  <class name="LamaGraph" type="rqt_lama.lama_graph.LamaGraph" base_class_type="qt_gui_py::Plugin">
+    <description>
+      A GUI plugin for visualizing the map of the Large Maps Framework.
+    </description>
+    <qtgui>
+      <group>
+        <label>Introspection</label>
+        <icon type="theme">folder</icon>
+        <statustip>Plugins related to introspection.</statustip>
+      </group>
+      <label>LaMa Map</label>
+      <icon type="theme">preferences-system-network</icon>
+      <statustip>A GUI plugin for visualizing the map of the Large Maps Framework.</statustip>
+    </qtgui>
+  </class>
+</library>
