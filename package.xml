@@ -22,6 +22,9 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
+  <run_depend>lama_interfaces</run_depend>
+  <run_depend>lama_msgs</run_depend>
+  <run_depend>python-rospkg</run_depend>
   <run_depend>qt_dotgraph</run_depend>
   <run_depend>qt_gui</run_depend>
   <run_depend>qt_gui_py_common</run_depend>
